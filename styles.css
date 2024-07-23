@@ -1,0 +1,10 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size:20px;
+}
+h1 {
+    font-family:"Brush Script MT";
+    font-size:64px;
+    background-color: aquamarine;
+}
