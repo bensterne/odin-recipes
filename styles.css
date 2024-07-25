@@ -2,9 +2,27 @@
     font-family:'Courier New', Courier, monospace;
     font-weight:bold;
     font-size:20px;
+    
 }
 h1 {
     font-family:"Brush Script MT",sans-serif;
     font-size:64px;
     background-color: aquamarine;
+    margin:12px auto;
+    padding-left:24px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-right:16px;
+    text-align: center;
+
+}
+li {
+    margin-bottom: 4px;
+}
+p,ul,ol,img{
+    margin:0px 24px;
+}
+img{
+    margin-top: 32px;
+    margin-bottom: 0px;
 }
